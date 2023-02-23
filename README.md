@@ -1,4 +1,4 @@
-# Santoferrara Lab Notebook: Project Sargasso Ciliophora
+# Santoferrara Lab Notebook: Sargasso Ciliophora
 
 ## Software 
 QIIME2 v. 2019.7 (Bolyen et al., 2019); BLAST+ v. 2.12.0 (Camacho et al., 2009); EPA-ng v. 0.3.8 (Barbera et al., 2019); GAPPA v. 0.7.1 (Czech et al., 2020); FigTree v. 1.4.4 (Rambaut, 2018); GBlocks  v. 0.91b (Castresana, 2000); R v. 4.0.0 (R Core Team, 2020) and RStudio v. 2021.9.2.382 (RStudio Team, 2021)
