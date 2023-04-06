@@ -1,16 +1,16 @@
 # Santoferrara Lab Notebook: Sargasso Ciliophora
 
 ## Software 
-QIIME2 v. 2019.7 (Bolyen et al., 2019); BLAST+ v. 2.12.0 (Camacho et al., 2009); EPA-ng v. 0.3.8 (Barbera et al., 2019); GAPPA v. 0.7.1 (Czech et al., 2020); FigTree v. 1.4.4 (Rambaut, 2018); GBlocks  v. 0.91b (Castresana, 2000); R v. 4.0.0 (R Core Team, 2020) and RStudio v. 2021.9.2.382 (RStudio Team, 2021)
+QIIME2 v2019.7 (Bolyen et al., 2019); BLAST+ v2.12.0 (Camacho et al., 2009); EPA-ng v0.3.8 (Barbera et al., 2019); GAPPA v0.7.1 (Czech et al., 2020); FigTree v1.4.4 (Rambaut, 2018); GBlocks  v0.91b (Castresana, 2000); R v4.0.0 (R Core Team, 2020) and RStudio v2021.9.2.382 (RStudio Team, 2021)
 
 ## R packages 
 LULU (Frøslev et al., 2017); vegan (Oksanen et al., 2019); tidyverse (Wickham and Girlich, 2022)
 
 ## Web servers 
-MAFFT v. 7: https://mafft.cbrc.jp/alignment/server/ (Katoh et al., 2019); IQ-TREE: http://iqtree.cibiv.univie.ac.at/ (Trifinopoulos et al., 2016); iTOL v. 6.6: https://itol.embl.de/upload.cgi (Letunic and Bork, 2021); PR2 webserver: https://app.pr2-database.org/pr2-database/ (D. Vaulot, unpublished); metaPR2 webserver: https://shiny.metapr2.org/metapr2/ (Vaulot et al., 2022)
+MAFFT v7: https://mafft.cbrc.jp/alignment/server/ (Katoh et al., 2019); IQ-TREE: http://iqtree.cibiv.univie.ac.at/ (Trifinopoulos et al., 2016); iTOL v6.6: https://itol.embl.de/upload.cgi (Letunic and Bork, 2021); PR2 webserver: https://app.pr2-database.org/pr2-database/; metaPR2 webserver: https://shiny.metapr2.org/metapr2/ (Vaulot et al., 2022)
 
 ## Reference databases, alignments and trees
-PR2 v. 4.12.0 (Guillou et al., 2013), available at: https://pr2-database.org/; EukRef-Ciliophora (Boscaro et al., 2018), available at: https://github.com/eukref/curation/tree/master/EukRef_Ciliophora; Oligotrichea curated alignment (Ganser et al., 2022), available at: https://www.sciencedirect.com/science/article/pii/S105579032200046X?via%3Dihub#s0145; Ciliophora reference alignment and tree (Rajter and Dunthorn, 2021), available at: https://mbmg.pensoft.net/article/69602/ 
+PR2 v4.12.0 (Guillou et al., 2013), available at: https://pr2-database.org/; EukRef-Ciliophora (Boscaro et al., 2018), available at: https://github.com/eukref/curation/tree/master/EukRef_Ciliophora; Oligotrichea curated alignment (Ganser et al., 2022), available at: https://www.sciencedirect.com/science/article/pii/S105579032200046X?via%3Dihub#s0145; Ciliophora reference alignment and tree (Rajter and Dunthorn, 2021), available at: https://mbmg.pensoft.net/article/69602/ 
 
 ## Code 
 ### 1.Importing variants table and fasta file into QIIME2
