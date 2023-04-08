@@ -239,7 +239,7 @@ Using the substitution model selected automatically by Modelfinder under the Aka
 #### Visualize and edit in iTOL (Letunic and Bork, 2021). 
 
 ## How to cite this work
-Santoferrara, L., Qureshi, A., Sher, A. & Blanco-Bercial, L. Diversity and Phylogenetic Partitioning of Ciliated Protists (Alveolata, Ciliophora) across 1,000-m Depth Profiles in Subtropical Oceanic Waters. Unpublished (for now!).
+Santoferrara, L., Qureshi, A., Sher, A. & Blanco-Bercial, L. 2023. The photic-aphotic divide is a strong ecological and evolutionary force determining the distribution of ciliates (Alveolata, Ciliophora) in the ocean. Journal of Eukaryotic Microbiology, jeu12976.
 
 ## References 
 Barbera, P., Kozlov, A., Czech, L., Morel, B., Darriba, D., Flouri, T. & Stamatakis, A. 2019. EPA-ng: massively parallel evolutionary placement of genetic sequences. System. Biol., 68:365-369. doi:10.1093/sysbio/syy054
